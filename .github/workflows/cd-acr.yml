@@ -1,0 +1,4 @@
+on:
+  push:
+    branches: [ main, artifacts-with-acr ]
+  workflow_dispatch:
